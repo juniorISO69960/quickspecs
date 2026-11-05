@@ -1,3 +1,7 @@
+> [!NOTE]
+> **Made with AI.** QuickSpecs was written with an AI coding assistant (Claude by Anthropic). It has been tested,
+> but double-check the specs it reports before you list a laptop for sale.
+
 # QuickSpecs
 
 **One click, one clean spec sheet for the Windows laptop you're selling.**
@@ -8,10 +12,6 @@ spec page and copy-and-paste text. No typing specs by hand, and no guessing what
 ![Example eBay image for a Dell Latitude 3390 2-in-1](docs/example.png)
 
 <sub>Example made from `samples/sample_latitude3390.json` (made-up laptop).</sub>
-
-> [!NOTE]
-> **Made with AI.** QuickSpecs was written with an AI coding assistant (Claude by Anthropic). It has been tested,
-> but double-check the specs it reports before you list a laptop for sale.
 
 ## What you get
 
