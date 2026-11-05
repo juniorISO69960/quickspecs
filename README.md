@@ -9,6 +9,10 @@ spec page and copy-and-paste text. No typing specs by hand, and no guessing what
 
 <sub>Example made from `samples/sample_latitude3390.json` (made-up laptop).</sub>
 
+> [!NOTE]
+> **Made with AI.** QuickSpecs was written with an AI coding assistant (Claude by Anthropic). It has been tested,
+> but double-check the specs it reports before you list a laptop for sale.
+
 ## What you get
 
 Each run saves three files in a `reports` folder next to the program:
