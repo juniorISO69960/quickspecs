@@ -1,0 +1,228 @@
+{
+ "system": {
+  "manufacturer": "LENOVO",
+  "model": "20L5CTO1WW",
+  "family": "ThinkPad T480",
+  "product_version": "ThinkPad T480",
+  "sku": "LENOVO_MT_20L5_BU_Think_FM_ThinkPad T480",
+  "serial": "PF1ABCDE",
+  "bios_version": "2.A23",
+  "bios_date": "2025-07-17",
+  "chassis_types": [
+   10
+  ],
+  "total_ram_bytes": 50524942336
+ },
+ "cpus": [
+  {
+   "name": "Intel(R) Core(TM) i7-8650U CPU @ 1.90GHz",
+   "cores": 4,
+   "threads": 8,
+   "max_mhz": 2112
+  }
+ ],
+ "ram_modules": [
+  {
+   "capacity": 8589934592,
+   "speed": 2400,
+   "configured_speed": 2400,
+   "smbios_type": 26,
+   "form_factor": 12,
+   "maker": "Samsung",
+   "part": "M471A1K43CB1-CRC",
+   "slot": "ChannelA-DIMM0"
+  },
+  {
+   "capacity": 8589934592,
+   "speed": 2400,
+   "configured_speed": 2400,
+   "smbios_type": 26,
+   "form_factor": 12,
+   "maker": "Samsung",
+   "part": "M471A1K43CB1-CRC",
+   "slot": "ChannelA-DIMM0"
+  }
+ ],
+ "gpus": [
+  {
+   "name": "Intel(R) UHD Graphics 620",
+   "vram_bytes": 1073741824,
+   "driver": "31.0.101.2111",
+   "pnp": "PCI",
+   "status": "OK"
+  },
+  {
+   "name": "NVIDIA GeForce MX150",
+   "vram_bytes": 2147483648,
+   "driver": "31.0.15.3623",
+   "pnp": "PCI",
+   "status": "OK"
+  }
+ ],
+ "monitors": [
+  {
+   "width_cm": 31,
+   "height_cm": 17,
+   "output_tech": 2147483648,
+   "name": null,
+   "maker": "LGD"
+  }
+ ],
+ "disks": [
+  {
+   "name": "SAMSUNG MZVLB512HAJQ-000L7",
+   "media": "SSD",
+   "bus": "NVMe",
+   "size": 512110190592,
+   "health": "Healthy",
+   "wear": 4,
+   "power_on_hours": 6120,
+   "temp": 38
+  }
+ ],
+ "diskdrives": [
+  {
+   "name": "INTEL SSDPEKKF512G8L",
+   "size": 512105932800,
+   "interface": "SCSI",
+   "media": "Fixed hard disk media"
+  },
+  {
+   "name": "PCIe SSD",
+   "size": 1000202273280,
+   "interface": "SCSI",
+   "media": "Fixed hard disk media"
+  },
+  {
+   "name": "WD_BLACK SN850X 1000GB",
+   "size": 1000202273280,
+   "interface": "SCSI",
+   "media": "Fixed hard disk media"
+  },
+  {
+   "name": "WDC WD20EZBX-00AYRA0",
+   "size": 2000396321280,
+   "interface": "IDE",
+   "media": "Fixed hard disk media"
+  },
+  {
+   "name": "ST2000DM008-2FR102",
+   "size": 2000396321280,
+   "interface": "IDE",
+   "media": "Fixed hard disk media"
+  }
+ ],
+ "battery_live": [
+  {
+   "name": "01AV489",
+   "charge": 84,
+   "status": 2
+  }
+ ],
+ "battery_wmi": {
+  "design": [],
+  "full": [],
+  "cycles": []
+ },
+ "net": [
+  {
+   "name": "Wi-Fi",
+   "desc": "Intel(R) Dual Band Wireless-AC 8265",
+   "media": "Native 802.11",
+   "ndis": "9",
+   "status": "Up",
+   "speed": "866.7 Mbps"
+  },
+  {
+   "name": "Ethernet",
+   "desc": "Intel(R) Ethernet Connection (4) I219-V",
+   "media": "802.3",
+   "ndis": "14",
+   "status": "Disconnected",
+   "speed": "0 bps"
+  }
+ ],
+ "wlan_drivers": "Radio types supported    : 802.11b 802.11g 802.11n 802.11a 802.11ac",
+ "devices": [
+  {
+   "class": "Camera",
+   "name": "Integrated Camera",
+   "status": "OK"
+  },
+  {
+   "class": "Biometric",
+   "name": "Synaptics FS7604 Touch Fingerprint Sensor with PurePrint(TM)",
+   "status": "OK"
+  },
+  {
+   "class": "Bluetooth",
+   "name": "Intel(R) Wireless Bluetooth(R)",
+   "status": "OK"
+  },
+  {
+   "class": "SecurityDevices",
+   "name": "Trusted Platform Module 2.0",
+   "status": "OK"
+  },
+  {
+   "class": "Bluetooth",
+   "name": "Microsoft Bluetooth Enumerator",
+   "status": "OK"
+  }
+ ],
+ "os": {
+  "caption": "Microsoft Windows 11 Pro",
+  "version": "10.0.26100",
+  "build": "22631",
+  "ubr": 4460,
+  "display_version": "23H2",
+  "edition_id": "Professional",
+  "arch": "64-bit",
+  "install_date": "2024-10-17"
+ },
+ "activation": {
+  "status": 1,
+  "description": "Windows(R) Operating System, OEM_DM channel",
+  "channel": "OEM:DM",
+  "firmware_key_present": true
+ },
+ "security": {
+  "secure_boot": 1,
+  "firmware_type": "UEFI",
+  "is_admin": true
+ },
+ "battery_report": [
+  {
+   "Id": "01AV489",
+   "Manufacturer": "SMP",
+   "Chemistry": "LiP",
+   "DesignCapacity": "24000",
+   "FullChargeCapacity": "21100",
+   "CycleCount": "212"
+  },
+  {
+   "Id": "01AV423",
+   "Manufacturer": "SMP",
+   "Chemistry": "LiP",
+   "DesignCapacity": "24000",
+   "FullChargeCapacity": "19900",
+   "CycleCount": "198"
+  }
+ ],
+ "displays": [
+  {
+   "primary": true,
+   "adapter": "Intel UHD",
+   "current": [
+    1920,
+    1080,
+    60
+   ],
+   "native": [
+    1920,
+    1080
+   ],
+   "max_hz": 60
+  }
+ ]
+}

@@ -1,0 +1,34 @@
+{
+ "system": {"manufacturer": "Dell Inc.", "model": "Latitude 3390 2-in-1", "family": "Latitude", "product_version": "",
+  "sku": "0817", "serial": "8JQ7MK2", "bios_version": "1.19.0", "bios_date": "2024-03-12",
+  "chassis_types": [31], "total_ram_bytes": 8462659584},
+ "cpus": [{"name": "Intel(R) Core(TM) i5-8350U CPU @ 1.70GHz", "cores": 4, "threads": 8, "max_mhz": 1896}],
+ "ram_modules": [
+  {"capacity": 8589934592, "speed": 2400, "configured_speed": 2400, "smbios_type": 26, "form_factor": 12,
+   "maker": "SK Hynix", "part": "HMA81GS6CJR8N-VK", "slot": "DIMM A"}
+ ],
+ "gpus": [{"name": "Intel(R) UHD Graphics 620", "vram_bytes": 1073741824, "driver": "31.0.101.2127", "pnp": "PCI", "status": "OK"}],
+ "monitors": [{"width_cm": 29, "height_cm": 17, "output_tech": 2147483648, "name": null, "maker": "AUO"}],
+ "disks": [{"name": "SK hynix SC311 SATA 256GB", "media": "SSD", "bus": "SATA", "size": 256060514304,
+   "health": "Healthy", "wear": 7, "power_on_hours": 8410, "temp": 34}],
+ "diskdrives": [{"name": "SK hynix SC311 SATA 256GB", "size": 256052966400, "interface": "IDE", "media": "Fixed hard disk media"}],
+ "battery_live": [{"name": "DELL 4YFVT", "charge": 91, "status": 2}],
+ "battery_wmi": {"design": [], "full": [], "cycles": []},
+ "net": [
+  {"name": "Wi-Fi", "desc": "Intel(R) Dual Band Wireless-AC 3165", "media": "Native 802.11", "ndis": "6.30", "status": "Up", "speed": "433.3 Mbps"}
+ ],
+ "wlan_drivers": "Radio types supported    : 802.11b 802.11g 802.11n 802.11a 802.11ac",
+ "devices": [
+  {"class": "Camera", "name": "Integrated Webcam", "status": "OK"},
+  {"class": "Bluetooth", "name": "Intel(R) Wireless Bluetooth(R)", "status": "OK"},
+  {"class": "SecurityDevices", "name": "Trusted Platform Module 2.0", "status": "OK"},
+  {"class": "HIDClass", "name": "HID-compliant touch screen", "status": "OK"}
+ ],
+ "os": {"caption": "Microsoft Windows 11 Pro", "version": "10.0.26100", "build": "26100", "ubr": 4351,
+  "display_version": "24H2", "edition_id": "Professional", "arch": "64-bit", "install_date": "2025-09-02"},
+ "activation": {"status": 1, "description": "Windows(R) Operating System, OEM_DM channel", "channel": "OEM:DM", "firmware_key_present": true},
+ "security": {"secure_boot": 1, "firmware_type": "UEFI", "is_admin": true},
+ "battery_report": [{"Id": "DELL 4YFVT", "Manufacturer": "SMP", "Chemistry": "LiP",
+   "DesignCapacity": "42000", "FullChargeCapacity": "36120", "CycleCount": "212"}],
+ "displays": [{"primary": true, "adapter": "Intel UHD", "current": [1366, 768, 60], "native": [1366, 768], "max_hz": 60}]
+}

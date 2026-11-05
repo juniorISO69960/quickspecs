@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# PyInstaller build output (run build_exe.bat to make the exe)
+build/
+dist/
+*.spec
+
+# Spec sheets made by the program (can contain real serial numbers)
+reports/
+*- specs.html
+*- specs.txt
+*- ebay.png
+*- raw.json
+
+# Editors and OS
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
